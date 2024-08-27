@@ -6,7 +6,7 @@ Data modeling, data engineering, and data analysis were completed
 
 
 QuickDBD to formour ERD which shows our data modeling. 
-
+http://www.quickdatabasediagrams.com.
 
 SQL code to form our tables, import our csv data, and to answer the following questions in our analysis. 
 
